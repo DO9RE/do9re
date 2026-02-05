@@ -27,7 +27,17 @@ I believe technology should not be a privilege. It must be accessible and reliab
 
 > “Good technology doesn’t care if you can see it.”
 
-## 📫 Contact
+## Support my work
+
+If you find my projects useful and would like to support what I do, you can help me keep things moving with a voluntary donation. Most of my programming and research happens in my free time, driven by curiosity and the goal of building practical tools that are genuinely usable.
+
+Your support directly helps me invest in new hardware and test equipment—especially amateur radio gear—so I can explore, improve, and develop accessibility for blind and visually impaired users. And sometimes it simply goes toward coffee, which helps a lot during long coding sessions. :-)
+
+**PayPal.me:** https://www.paypal.com/paypalme/RichardEmling
+
+Thank you for supporting open-source development and accessibility-focused tinkering.
+
+### 📫 Contact
 
 - 📧 Email: do9re@hotmail.com  
 - 🐘 Mastodon: @tschapajew@metalhead.club
